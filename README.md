@@ -1,2 +1,2 @@
-# loco-coin.py
+# loco-coin
 Create loco coin 
